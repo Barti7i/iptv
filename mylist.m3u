@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, 13 Ulica
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F74%2F&amp;page=1&amp;title=13+Ulica&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F62224f044cf781a83b4c148cdedd7e22.png
-#EXTINF:-1, Ale Kino
+#EXTINF:-1, Ale Kino+
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F75%2F&amp;page=1&amp;title=Ale+Kino%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6a9099a92e6864879d2e944c39bde61f.png
 #EXTINF:-1, AMC
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F673%2F&amp;page=1&amp;title=AMC&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F7c52ed5b8820b7dfd90b5a784bac64b3.png
@@ -105,7 +105,7 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F102%2F&amp;page=1&amp;title=Nickelodeon+Jr.&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F79b4c581ae82fdc8f9351a93055dc1b3.png
 #EXTINF:-1, Nicketoons
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8746%2F&amp;page=1&amp;title=Nicketoons&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F0d98f4ee7042abd036283bd4df037d0b.png/
-#EXTINF:-1 Canal+ Sport 5
+#EXTINF:-1, Canal+ Sport 5
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F120%2F&amp;page=1&amp;title=nSport%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd34fb628c4e27b9b141c5e2b4c6a9504.png
 #EXTINF:-1, Paramount Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F178%2F&amp;page=1&amp;title=Paramount+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fe906821e2ecc8c4f9fdbd74754225935.png
