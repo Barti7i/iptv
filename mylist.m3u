@@ -1,4 +1,95 @@
 #EXTM3U
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://s8.tvp.pl/images2/8/a/c/uid_8ac2b72c379abf831e4d27a56988eae11638275540325_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Podstawowe",TVP 1
+plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Podstawowe",TVP 2
+plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
+#EXTINF:-1 group-title="WP Pilot",Polsat HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=9
+#EXTINF:-1 group-title="WP Pilot",TV 4
+plugin://plugin.video.pilot.wp?action=PLAY&channel=11
+#EXTINF:-1 group-title="WP Pilot",TVN
+plugin://plugin.video.pilot.wp?action=PLAY&channel=14
+#EXTINF:-1 group-title="WP Pilot",TV Puls
+plugin://plugin.video.pilot.wp?action=PLAY&channel=12
+#EXTINF:0 tvg-id="TVP Info" tvg-logo="https://s2.tvp.pl/images2/2/1/2/uid_2124147c0f8212d59ace8374779b28621638275572006_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Info
+plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
+#EXTINF:0 tvg-id="TVP World" tvg-logo="https://s3.tvp.pl/images2/3/1/a/uid_31a1cb9f553a4e62fdc1a68311068b931639054119238_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP World
+plugin://plugin.video.tvpgo/play_channel?code=PIE&ch_id=61f2552dac8460678216e2a3
+#EXTINF:0 tvg-id="TVP Sport" tvg-logo="https://s9.tvp.pl/images2/9/6/b/uid_96b6b3e217181c3d3925ba783fe68a131638275633849_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Sport
+plugin://plugin.video.tvpgo/play_channel?code=KSP&ch_id=5d1dccc1fa06f9682b0f993a
+#EXTINF:0 tvg-id="TVP Kobieta" tvg-logo="https://s3.tvp.pl/images2/3/6/2/uid_362ac36e5828f7e25f5e5d028b7abb7b1638275648497_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kobieta
+plugin://plugin.video.tvpgo/play_channel?code=KBT&ch_id=6040bf7b69359a199aa6fb38
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://s5.tvp.pl/images2/5/c/8/uid_5c8ba79e2229bf9909ffa4ea9907595e1638275665760_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP ABC
+plugin://plugin.video.tvpgo/play_channel?code=ABC&ch_id=5d1dccc1fa06f9682b0f9939
+#EXTINF:0 tvg-id="TVP Historia" tvg-logo="https://s4.tvp.pl/images2/d/5/e/uid_d5e250a46a37955df5b33847a1f661921638275686065_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Historia
+plugin://plugin.video.tvpgo/play_channel?code=TKH&ch_id=5d1dccc1fa06f9682b0f9938
+#EXTINF:0 tvg-id="TVP Dokument" tvg-logo="https://s1.tvp.pl/images2/a/f/1/uid_af1b5529d584f3e6dc893021b38901971638275709609_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Dokument
+plugin://plugin.video.tvpgo/play_channel?code=DOK&ch_id=5fb3cdf8683e7e5a7f307257
+#EXTINF:0 tvg-id="TVP Kultura" tvg-logo="https://s9.tvp.pl/images2/9/6/1/uid_96117b8fceb8a7db897a9757240316451638275727542_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Kultura
+plugin://plugin.video.tvpgo/play_channel?code=T5D&ch_id=5d1dccc1fa06f9682b0f9936
+#EXTINF:0 tvg-id="TVP Polonia" tvg-logo="https://s5.tvp.pl/images2/e/7/b/uid_e7b9ee2c3a342e7b97eda1b96e48808d1638275742066_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Polonia
+plugin://plugin.video.tvpgo/play_channel?code=T4D&ch_id=5d1dccc1fa06f9682b0f9937
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-logo="https://s9.tvp.pl/images2/9/6/4/uid_9647031d5810bf7b78b1a9f30904468c1638275757901_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Rozrywka
+plugin://plugin.video.tvpgo/play_channel?code=TRO&ch_id=5d1dccc1fa06f9682b0f9935
+#EXTINF:0 tvg-id="Historia 2" tvg-logo="https://s1.tvp.pl/images2/a/e/0/uid_ae0b108d4f6da63a62b15c2c8a58b4021638275776152_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Historia 2
+plugin://plugin.video.tvpgo/play_channel?code=H2&ch_id=60476bb069359a199a319de9
+#EXTINF:0 tvg-id="ABC 2" tvg-logo="https://s8.tvp.pl/images2/8/1/c/uid_81cab4e1725ca1969ec02d7d3cbd56441644906820060_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",ABC 2
+plugin://plugin.video.tvpgo/play_channel?code=DMPR&ch_id=5fdb237f69359a199a4376c6
+#EXTINF:0 tvg-id="Kultura 2" tvg-logo="https://s9.tvp.pl/images2/9/5/d/uid_95d9115d0087e74f98e473318137f5611638276367938_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",Kultura 2
+plugin://plugin.video.tvpgo/play_channel?code=KUL2&ch_id=6023b5b969359a199a4e25cc
+#EXTINF:0 tvg-id="TVP 3 Poznań" tvg-logo="https://s1.tvp.pl/images2/a/7/1/uid_a719cd825dd3ef4c9e65b0bc496df7f11638794168362_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP 3 Poznań
+plugin://plugin.video.tvpgo/play_channel?code=XPP&ch_id=5d1dccc1fa06f9682b0f9931
+#EXTINF:-1 group-title="WP Pilot",Telewizja WP HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=158
+#EXTINF:-1 group-title="WP Pilot",Kabaret TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=271
+#EXTINF:-1 group-title="WP Pilot",4FUN.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=21
+#EXTINF:-1 group-title="WP Pilot",4FUN DANCE
+plugin://plugin.video.pilot.wp?action=PLAY&channel=50
+#EXTINF:-1 group-title="WP Pilot",4FUN KIDS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=22
+#EXTINF:-1 group-title="WP Pilot",News24
+plugin://plugin.video.pilot.wp?action=PLAY&channel=272
+#EXTINF:-1 group-title="WP Pilot",Red Top TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=273
+#EXTINF:-1 group-title="WP Pilot",Travelxp HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=182
+#EXTINF:-1 group-title="WP Pilot",Gametoon HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=205
+#EXTINF:-1 group-title="WP Pilot",Stars.TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=24
+#EXTINF:-1 group-title="WP Pilot",Music Box Polska
+plugin://plugin.video.pilot.wp?action=PLAY&channel=188
+#EXTINF:-1 group-title="WP Pilot",Jazz HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=213
+#EXTINF:-1 group-title="WP Pilot",Fashion TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=58
+#EXTINF:-1 group-title="WP Pilot",GOLD TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=172
+#EXTINF:-1 group-title="WP Pilot",wPolsce.pl HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=174
+#EXTINF:-1 group-title="WP Pilot",Love TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=45
+#EXTINF:-1 group-title="WP Pilot",TVS
+plugin://plugin.video.pilot.wp?action=PLAY&channel=51
+#EXTINF:-1 group-title="WP Pilot",TV Trwam
+plugin://plugin.video.pilot.wp?action=PLAY&channel=10
+#EXTINF:-1 group-title="WP Pilot",13.TV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=274
+#EXTINF:-1 group-title="WP Pilot",Twoja.TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=150
+#EXTINF:-1 group-title="WP Pilot",Red Carpet TV HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=138
+#EXTINF:-1 group-title="WP Pilot",EzoTV
+plugin://plugin.video.pilot.wp?action=PLAY&channel=149
+#EXTINF:-1 group-title="WP Pilot",Polonia 1
+plugin://plugin.video.pilot.wp?action=PLAY&channel=211
+#EXTINF:-1 group-title="WP Pilot",Tele 5 HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=212
+#EXTINF:-1 group-title="WP Pilot",TBN Polska HD
+plugin://plugin.video.pilot.wp?action=PLAY&channel=204
+
 #EXTINF:0 tvg-id="TVP Info" tvg-logo="https://s2.tvp.pl/images2/2/1/2/uid_2124147c0f8212d59ace8374779b28621638275572006_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP Info
 plugin://plugin.video.tvpgo/play_channel?code=INF&ch_id=5d1dccc1fa06f9682b0f9924
 #EXTINF:0 tvg-id="TVP World" tvg-logo="https://s3.tvp.pl/images2/3/1/a/uid_31a1cb9f553a4e62fdc1a68311068b931639054119238_width_500_play_0_pos_0_gs_0_height_500.png" group-title="TVPGO",TVP World
@@ -343,27 +434,27 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F92%2F&amp;page=1&amp;title=TVP+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F21ca53915092e103f15a531bf1a54be1.png
 #EXTINF:-1 group-title="Beta TV", Warner TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F695%2F&amp;page=1&amp;title=Warner+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fcc843ad3ec4652d15d171ce35be3b59d.png
-#EXTINF:-1 group-title="TheCrew Sport", Canal+ Sport 2
+#EXTINF:-1 group-title="TheCrew", Canal+ Sport 2
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da6f5af03cd80bdaf7fca2c41ee97e011&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Canal+ Sport
+#EXTINF:-1 group-title="TheCrew", Canal+ Sport
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2c42450bf115ae9957bf206c5345d50f&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 1
+#EXTINF:-1 group-title="TheCrew", Eleven Sports 1
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D970ad41803508b1503c099dbcbeb8bad&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 2
+#EXTINF:-1 group-title="TheCrew", Eleven Sports 2
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D05d73f50f8c488783f0df4fbd2d87683&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 3
+#EXTINF:-1 group-title="TheCrew", Eleven Sports 3
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D54e1dcf84db8d9457464a4b73242b259&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport",Eurosport 1
+#EXTINF:-1 group-title="TheCrew",Eurosport 1
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2924418fdb3dcca70c08e433e87004e1&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Eurosport 2
+#EXTINF:-1 group-title="TheCrew", Eurosport 2
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9281c3aa100d7d274de793a1d23b3d25&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport Extra
+#EXTINF:-1 group-title="TheCrew", Polsat Sport Extra
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd775479f5f8cf07bfa7ddea5568d47f8&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport News
+#EXTINF:-1 group-title="TheCrew", Polsat Sport News
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D415674f0dc5a7d6b855ac16b3db7b526&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport
+#EXTINF:-1 group-title="TheCrew", Polsat Sport
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3De87eb1416f862183ff21e6e9cf8578ee&amp;content=0&quot
-#EXTINF:-1 group-title="TheCrew Sport", TVP Sport
+#EXTINF:-1 group-title="TheCrew", TVP Sport
 plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D48e6a90678aab11d81d992666ea47600&amp;content=0&quot
 #EXTINF:-1 group-title="Polstream", TVP 1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1555%21%21resolved%21%21&amp;page=1&amp;title=TVP+1&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
@@ -467,7 +558,7 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1918%21%21resolved%21%21&amp;page=1&amp;title=Epic+Drama&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Romance TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1960%21%21resolved%21%21&amp;page=1&amp;title=Romance+TV&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", "TVP Rozrywka
+#EXTINF:-1 group-title="Polstream", TVP Rozrywka
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1720%21%21resolved%21%21&amp;page=1&amp;title=TVP+Rozrywka&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Kino Polska
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1510%21%21resolved%21%21&amp;page=1&amp;title=Kino+Polska&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
@@ -499,7 +590,7 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1900%21%21resolved%21%21&amp;page=1&amp;title=Polsat+Sport+Premium+2&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", TVP Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1564%21%21resolved%21%21&amp;page=1&amp;title=TVP+Sport&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", nSport+
+#EXTINF:-1 group-title="Polstream", Canal+ Sport 5
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1681%21%21resolved%21%21&amp;page=1&amp;title=nSport%2B&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Extreme Sports
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1507%21%21resolved%21%21&amp;page=1&amp;title=Extreme+Sports&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
@@ -527,15 +618,15 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1528%21%21resolved%21%21&amp;page=1&amp;title=Discovery+Science&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Discovery Life
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1654%21%21resolved%21%21&amp;page=1&amp;title=Discovery+Life&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", Discovery Turbo Xtra
+#EXTINF:-1 group-title="Polstream", DTX
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1957%21%21resolved%21%21&amp;page=1&amp;title=Discovery+Turbo+Xtra&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", ID (Investigation Discovery)
+#EXTINF:-1 group-title="Polstream", ID
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1852%21%21resolved%21%21&amp;page=1&amp;title=ID+%28Investigation+Discovery%29&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Animal Planet
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1936%21%21resolved%21%21&amp;page=1&amp;title=Animal+Planet&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", National Geographic
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1534%21%21resolved%21%21&amp;page=1&amp;title=National+Geographic&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", "Nat Geo Wild
+#EXTINF:-1 group-title="Polstream", Nat Geo Wild
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1489%21%21resolved%21%21&amp;page=1&amp;title=Nat+Geo+Wild&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Nat Geo People
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1987%21%21resolved%21%21&amp;page=1&amp;title=Nat+Geo+People&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
