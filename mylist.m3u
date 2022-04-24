@@ -175,175 +175,171 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F110%2F&amp;page=1&amp;title=Canal%2B+Seriale&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F24e472d57b2602d7be655cb4dce369e5.png
 #EXTINF:-1 group-title="Beta TV", Canal+ Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F84%2F&amp;page=1&amp;title=Canal%2B+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F71acd8666ea6c8155ff0e261b6f75e86.png
-#EXTINF:-1,Canal+ Sport 2
+#EXTINF:-1 group-title="Beta TV",Canal+ Sport 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F85%2F&amp;page=1&amp;title=Canal%2B+Sport+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6235cf45764af8f70e93ff6fabf5df77.png
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="Beta TV",Cartoon Network
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F101%2F&amp;page=1&amp;title=Cartoon+Network&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8be5e3f6156a6b2108a2d8b9cc5d5d7c.png
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="Beta TV",Cinemax
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F134%2F&amp;page=1&amp;title=Cinemax&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F156313ed0e9462c9a84fe4cf60ba4f7d.png
-#EXTINF:-1,Cinemax 2
+#EXTINF:-1 group-title="Beta TV",Cinemax 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F135%2F&amp;page=1&amp;title=Cinemax+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F56320f5927b607b412b5d914a1a6f7db.png
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="Beta TV",Comedy Central
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F25%2F&amp;page=1&amp;title=Comedy+Central&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Ffa894851552e99b1cc146264a8ffaf4b.png
-#EXTINF:-1,Crime Investigation Polsat
+#EXTINF:-1 group-title="Beta TV",Crime Investigation Polsat
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F751%2F&amp;page=1&amp;title=Crime+Investigation+Polsat&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F5db0a34e85c7ca7de275439f3a0bbc57.png
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="Beta TV",Discovery Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F81%2F&amp;page=1&amp;title=Discovery+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fa490ae75a3ec2acf16c9f592e889eb4c.png
-#EXTINF:-1,Discovery Historia
+#EXTINF:-1 group-title="Beta TV",Discovery Historia
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8745%2F&amp;page=1&amp;title=Discovery+Historia&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F09baa637491861e47f249635e301caeb.png
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="Beta TV",Discovery Science
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F674%2F&amp;page=1&amp;title=Discovery+Science&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F591ea4629824c69108d69727181b1aba.png
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="Beta TV",Disney Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F71%2F&amp;page=1&amp;title=Disney+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fbd8f2d8ae34c8679291fbef3df048a44.png
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 group-title="Beta TV",Disney Junior
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F130%2F&amp;page=1&amp;title=Disney+Junior&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F1bda85700cf60d7042fd196ac6145a00.png
-#EXTINF:-1,DTX
+#EXTINF:-1 group-title="Beta TV",DTX
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8743%2F&amp;page=1&amp;title=DTX&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F40dfc07863aa3f6364884400d95c78e8.png
-#EXTINF:-1,Eleven Sports 1
-#EXTGRP: Sport
+#EXTINF:-1 group-title="Beta TV",Eleven Sports 1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F675%2F&amp;page=1&amp;title=Eleven+Sports+1&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F3607fac75862d4f74d03b68a24e30aa6.png
-#EXTINF:-1,Eleven Sports 2
-#EXTGRP: Sport
+#EXTINF:-1 group-title="Beta TV",Eleven Sports 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F676%2F&amp;page=1&amp;title=Eleven+Sports+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F3363272edad91fcaaa90a7a530041d01.png
-#EXTINF:-1,Eleven Sports 3
-#EXTGRP: Sport
+#EXTINF:-1 group-title="Beta TV",Eleven Sports 3
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F677%2F&amp;page=1&amp;title=Eleven+Sports+3&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F295551ef71e4a12135cc2605d0f10c8d.png
-#EXTINF:-1,Eleven Sports 4
-#EXTGRP: Sport
+#EXTINF:-1 group-title="Beta TV",Eleven Sports 4
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F678%2F&amp;page=1&amp;title=Eleven+Sports+4&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F2f6ea5c33be4d2faa3169d727fa24b64.png
-#EXTINF:-1, Eska TV
+#EXTINF:-1 group-title="Beta TV", Eska TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F171%2F&amp;page=1&amp;title=Eska+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6759bbeaf0118418030fc60b4145cf6d.png
-#EXTINF:-1, Eurosport
+#EXTINF:-1 group-title="Beta TV", Eurosport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F87%2F&amp;page=1&amp;title=Eurosport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fe19366eea531fc28a54af600214456a5.png
-#EXTINF:-1, Eurosport 2
+#EXTINF:-1 group-title="Beta TV", Eurosport 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F88%2F&amp;page=1&amp;title=Eurosport++2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F0d4b8953db0ef50bbd17de02bf200313.png
-#EXTINF:-1, Extreme Sports Channel
+#EXTINF:-1 group-title="Beta TV", Extreme Sports Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F119%2F&amp;page=1&amp;title=Extreme+Sports+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F0a3bd5a4fa55a56bde99c58bc2fa02f1.png
-#EXTINF:-1, Fokus TV
+#EXTINF:-1 group-title="Beta TV", Fokus TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F876%2F&amp;page=1&amp;title=Fokus+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F83bda524695adfc72a7a48308ad045f6.png
-#EXTINF:-1, FOX
+#EXTINF:-1 group-title="Beta TV", FOX
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F873%2F&amp;page=1&amp;title=FOX&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F1cbdb8043b37c7c9ca83582f9218c8b4.png
-#EXTINF:-1, FOX Comedy
+#EXTINF:-1 group-title="Beta TV", FOX Comedy
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F5412%2F&amp;page=1&amp;title=FOX+Comedy&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F691dae29e2f7711752ef0b011f28a0c8.png
-#EXTINF:-1, HBO
+#EXTINF:-1 group-title="Beta TV", HBO
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F113%2F&amp;page=1&amp;title=HBO&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F509e5f41146e278f9eab1ddaceb34515.png
-#EXTINF:-1, HBO 2
+#EXTINF:-1 group-title="Beta TV", HBO 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F76%2F&amp;page=1&amp;title=HBO+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F126b2591108210feba8e36b3d0d2c52a.png
-#EXTINF:-1, HBO 3
+#EXTINF:-1 group-title="Beta TV", HBO 3
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F114%2F&amp;page=1&amp;title=HBO+3&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6c6c4f38db421267638333cc423a31c9.png
-#EXTINF:-1, History
+#EXTINF:-1 group-title="Beta TV", History
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F117%2F&amp;page=1&amp;title=History&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F16d2b386b2034b9488996466aaae0b57.png
-#EXTINF:-1, History 2
+#EXTINF:-1 group-title="Beta TV", History 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F2172%2F&amp;page=1&amp;title=History+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F91c3c79c44b29de6a53a7ab7973531cb.png
-#EXTINF:-1, ID
+#EXTINF:-1 group-title="Beta TV", ID
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F30%2F&amp;page=1&amp;title=ID&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fb718adec73e04ce3ec720dd11a06a308.png
-#EXTINF:-1, Minimini+
+#EXTINF:-1 group-title="Beta TV", Minimini+
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F72%2F&amp;page=1&amp;title=Minimini%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fafe9be8593291b20edac3b01f734a47a.png
-#EXTINF:-1, MTV Polska
+#EXTINF:-1 group-title="Beta TV", MTV Polska
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F121%2F&amp;page=1&amp;title=MTV+Polska&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fa5ca8d64c0690c644ff11e299e5705c5.png
-#EXTINF:-1, National Geographic Channel
+#EXTINF:-1 group-title="Beta TV", National Geographic Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F82%2F&amp;page=1&amp;title=National+Geographic+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Ff338bacb7988d51ec24d0534c73e50f3.png
-#EXTINF:-1, National Geographic People
+#EXTINF:-1 group-title="Beta TV", National Geographic People
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F690%2F&amp;page=1&amp;title=National+Geographic+People&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fbee859bc30026b654078bec1cf3c8ec5.png
-#EXTINF:-1, National Geographic Wild
+#EXTINF:-1 group-title="Beta TV", National Geographic Wild
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F83%2F&amp;page=1&amp;title=National+Geographic+Wild&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F54b8046aaf94f00c5925b2664a31924c.png
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1 group-title="Beta TV", Nickelodeon
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F103%2F&amp;page=1&amp;title=Nickelodeon&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fb11cc9ad84502b27a63fa7a8d813ef6a.png
-#EXTINF:-1, Nick Jr.
+#EXTINF:-1 group-title="Beta TV", Nick Jr.
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F102%2F&amp;page=1&amp;title=Nickelodeon+Jr.&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F79b4c581ae82fdc8f9351a93055dc1b3.png
-#EXTINF:-1, Nicktoons
+#EXTINF:-1 group-title="Beta TV", Nicktoons
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8746%2F&amp;page=1&amp;title=Nicketoons&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F0d98f4ee7042abd036283bd4df037d0b.png/
-#EXTINF:-1, Canal+ Sport 5
+#EXTINF:-1 group-title="Beta TV", Canal+ Sport 5
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F120%2F&amp;page=1&amp;title=nSport%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd34fb628c4e27b9b141c5e2b4c6a9504.png
-#EXTINF:-1, Paramount Channel
+#EXTINF:-1 group-title="Beta TV", Paramount Channel
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F178%2F&amp;page=1&amp;title=Paramount+Channel&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fe906821e2ecc8c4f9fdbd74754225935.png
-#EXTINF:-1, Planete+
+#EXTINF:-1 group-title="Beta TV", Planete+
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F747%2F&amp;page=1&amp;title=Planete%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F08ad2d16d1fd284bb2233b1f03e0aafa.png
-#EXTINF:-1, Polsat
+#EXTINF:-1 group-title="Beta TV", Polsat
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F53%2F&amp;page=1&amp;title=Polsat&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8a1049ae915f85f2850960dfecc8411a.png
-#EXTINF:-1, Polsat 2
+#EXTINF:-1 group-title="Beta TV", Polsat 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F54%2F&amp;page=1&amp;title=Polsat+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd52abff7333a8f49680dba8e77af3803.png
-#EXTINF:-1, Polsat Cafe
+#EXTINF:-1 group-title="Beta TV", Polsat Cafe
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F97%2F&amp;page=1&amp;title=Polsat+Cafe&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fa48932fea0eddb44c946bee8a0a41d0c.png
-#EXTINF:-1, Polsat Comedy Central Extra
+#EXTINF:-1 group-title="Beta TV", Polsat Comedy Central Extra
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8748%2F&amp;page=1&amp;title=Polsat+Comedy+Central+Extra&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fcd4cb10a632a1a20bada1ff9e0136c9a.png
-#EXTINF:-1, Polsat Doku
+#EXTINF:-1 group-title="Beta TV", Polsat Doku
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F691%2F&amp;page=1&amp;title=Polsat+Doku&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fc600de60e1b4648a97ff097fd06c54f4.png
-#EXTINF:-1, Polsat Film
+#EXTINF:-1 group-title="Beta TV", Polsat Film
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F115%2F&amp;page=1&amp;title=Polsat+Film&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F220517f9627bee2595cce7b4741c52df.png
-#EXTINF:-1, Polsat News
+#EXTINF:-1 group-title="Beta TV", Polsat News
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F65%2F&amp;page=1&amp;title=Polsat+News&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fa11c9d4be60b3129c546aebc3f33cf8a.png
-#EXTINF:-1, Polsat Play
+#EXTINF:-1 group-title="Beta TV", Polsat Play
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F99%2F&amp;page=1&amp;title=Polsat+Play&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F4e54ce6e4c533ef9d27e1616062f73d6.png
-#EXTINF:-1, Polsat Sport
+#EXTINF:-1 group-title="Beta TV", Polsat Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F89%2F&amp;page=1&amp;title=Polsat+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F1fd3f564cd07961d125c5044323c1cdd.png
-#EXTINF:-1, Polsat Sport Extra
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Extra
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F90%2F&amp;page=1&amp;title=Polsat+Sport+Extra&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd0682a02ba80e71d41b00a00a06c7d45.png
-#EXTINF:-1, Polsat Sport Fight
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Fight
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F658%2F&amp;page=1&amp;title=Polsat+Sport+Fight&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fbea76f94a86a1da869c5928326077990.png
-#EXTINF:-1, Polsat Sport News
+#EXTINF:-1 group-title="Beta TV", Polsat Sport News
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F91%2F&amp;page=1&amp;title=Polsat+Sport+News&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd0c355d3f5e000188f881f89a42dc322.png
-#EXTINF:-1, Polsat Sport Premium 1
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F722%2F&amp;page=1&amp;title=Polsat+Sport+Premium+1&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F3689de213a51a6c8ac27fb2bf706af0f.png
-#EXTINF:-1, Polsat Sport Premium 2
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F723%2F&amp;page=1&amp;title=Polsat+Sport+Premium+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fd142d2552408c3bf124ecf3e55e725d8.png
-#EXTINF:-1, Polsat Sport Premium 3
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 3
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F6821%2F&amp;page=1&amp;title=Polsat+Sport+Premium+3&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F429db754f5ac0f40fed09696a658f610.png
-#EXTINF:-1, Polsat Sport Premium 4
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 4
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F6999%2F&amp;page=1&amp;title=Polsat+Sport+Premium+4&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fc9b64977751d7797ac9a39d298a03a16.png
-#EXTINF:-1, Polsat Sport Premium 5
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 5
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F7000%2F&amp;page=1&amp;title=Polsat+Sport+Premium+5&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fac6bd0b68888f1a1468e2dc5cbdfe6ee.png
-#EXTINF:-1, Polsat Sport Premium 6
+#EXTINF:-1 group-title="Beta TV", Polsat Sport Premium 6
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F711%2F&amp;page=1&amp;title=Polsat+Sport+Premium+6&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F385c238033fed78501a04ab455f4e30f.png
-#EXTINF:-1, Puls 2
+#EXTINF:-1 group-title="Beta TV", Puls 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F94%2F&amp;page=1&amp;title=Puls+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fccbaf2d5b8442e921d0dd58c11266068.png
-#EXTINF:-1, Scifi Universal
+#EXTINF:-1 group-title="Beta TV", Scifi Universal
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F7221%2F&amp;page=1&amp;title=Scifi+Universal&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F98317fb4e5c913e71f78dc61e0c0d85c.png
-#EXTINF:-1, Stopklatka TV
+#EXTINF:-1 group-title="Beta TV", Stopklatka TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV2NkZU1rS25EVU01aEl6RHczTzM2T1E9PQ%3D%3D%2F693%2F&amp;page=1&amp;title=Stopklatka+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Faf8f68cde23bcbad6f5295cf1074d38f.png
-#EXTINF:-1, Super Polsat
+#EXTINF:-1 group-title="Beta TV", Super Polsat
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F704%2F&amp;page=1&amp;title=Super+Polsat&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F370e5a00eb128cac530e86b04d243801.png
-#EXTINF:-1, TLC
+#EXTINF:-1 group-title="Beta TV", TLC
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F694%2F&amp;page=1&amp;title=TLC&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fe12a8b6e18ee3d67dc8153f4f4713a40.png
-#EXTINF:-1, TTV
+#EXTINF:-1 group-title="Beta TV", TTV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F696%2F&amp;page=1&amp;title=TTV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F48b9e04b9da41fa53ccd3e293dcb0f6d.png
-#EXTINF:-1, TV 4
+#EXTINF:-1 group-title="Beta TV", TV 4
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F64%2F&amp;page=1&amp;title=TV+4&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fe09384407d5eebd7c1c96f1e2e342ef5.png
-#EXTINF:-1, TV 6
+#EXTINF:-1 group-title="Beta TV", TV 6
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F77%2F&amp;page=1&amp;title=TV+6&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F7298505591e3603913137a2ed62f098d.png
-#EXTINF:-1, TV Puls
+#EXTINF:-1 group-title="Beta TV", TV Puls
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F61%2F&amp;page=1&amp;title=TV+Puls&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F870cd67c8efc95995f2f3d9e74f18b4f.png
-#EXTINF:-1, TVN
+#EXTINF:-1 group-title="Beta TV", TVN
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F697%2F&amp;page=1&amp;title=TVN&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Facf93349a496b825bdde306eb527d1e7.png
-#EXTINF:-1, TVN 24
+#EXTINF:-1 group-title="Beta TV", TVN 24
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F68%2F&amp;page=1&amp;title=TVN+24&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F12505c2c5f8d47e15094e0051900e6c4.png
-#EXTINF:-1, TVN 24 BiS
+#EXTINF:-1 group-title="Beta TV", TVN 24 BiS
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F78%2F&amp;page=1&amp;title=TVN+24+BiS&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fb01c2d9110361594ff442900d6f4a198.png
-#EXTINF:-1, TVN 7
+#EXTINF:-1 group-title="Beta TV", TVN 7
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F55%2F&amp;page=1&amp;title=TVN+7&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F5e8543865fd54b3fc9cc22cb5387b9c5.png
-#EXTINF:-1, TVN Fabuła
+#EXTINF:-1 group-title="Beta TV", TVN Fabuła
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F874%2F&amp;page=1&amp;title=TVN+Fabu%C5%82a&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F2839876b52c20c041983bdf1e62f99b3.png
-#EXTINF:-1, TVN Style
+#EXTINF:-1 group-title="Beta TV", TVN Style
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F70%2F&amp;page=1&amp;title=TVN+Style&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fda1510e0c0b0aed28c32fffd31130888.png
-#EXTINF:-1, TVN Turbo
+#EXTINF:-1 group-title="Beta TV", TVN Turbo
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F98%2F&amp;page=1&amp;title=TVN+Turbo&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fa12f91e423d11350da30504e4b1e84da.png
-#EXTINF:-1, TVP 1
+#EXTINF:-1 group-title="Beta TV", TVP 1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F698%2F&amp;page=1&amp;title=TVP+1&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F83f67fcaee5fb0f7fd928eaf8d9e7256.png
-#EXTINF:-1, TVP 2
+#EXTINF:-1 group-title="Beta TV", TVP 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F57%2F&amp;page=1&amp;title=TVP+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fdf7d9bfe577bd7d2abbe36259a532d0d.png
-#EXTINF:-1, TVP ABC
+#EXTINF:-1 group-title="Beta TV", TVP ABC
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F104%2F&amp;page=1&amp;title=TVP+ABC&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F05bd53219d48c36cf360d8e04f8c91ab.png
-#EXTINF:-1, TVP Historia
+#EXTINF:-1 group-title="Beta TV", TVP Historia
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F118%2F&amp;page=1&amp;title=TVP+Historia&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F9bbd84217354a8bb7d093ecef048981f.png
-#EXTINF:-1, TVP Info
+#EXTINF:-1 group-title="Beta TV", TVP Info
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F69%2F&amp;page=1&amp;title=TVP+Info&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F16132bdd802de165e6f4ec54092b107c.png
-#EXTINF:-1, TVP Polonia
+#EXTINF:-1 group-title="Beta TV", TVP Polonia
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F62%2F&amp;page=1&amp;title=TVP+Polonia&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F5193bdfb64ae26e83f832ffd1985f85d.png
-#EXTINF:-1, TVP Rozrywka
+#EXTINF:-1 group-title="Beta TV", TVP Rozrywka
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F705%2F&amp;page=1&amp;title=TVP+Rozrywka&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F548c920b8925a6ab8a164ebb04f5f685.png
-#EXTINF:-1, TVP Seriale
+#EXTINF:-1 group-title="Beta TV", TVP Seriale
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F799%2F&amp;page=1&amp;title=TVP+Seriale&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8f11bc5acd936994c3f238789499abc2.png
-#EXTINF:-1, TVP Sport
+#EXTINF:-1 group-title="Beta TV", TVP Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F92%2F&amp;page=1&amp;title=TVP+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F21ca53915092e103f15a531bf1a54be1.png
-#EXTINF:-1, Warner TV
+#EXTINF:-1 group-title="Beta TV", Warner TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F695%2F&amp;page=1&amp;title=Warner+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fcc843ad3ec4652d15d171ce35be3b59d.png
