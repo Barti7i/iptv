@@ -30,8 +30,10 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 #EXTINF:-1, Canal+ Seriale
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F110%2F&amp;page=1&amp;title=Canal%2B+Seriale&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F24e472d57b2602d7be655cb4dce369e5.png
 #EXTINF:-1, Canal+ Sport
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F84%2F&amp;page=1&amp;title=Canal%2B+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F71acd8666ea6c8155ff0e261b6f75e86.png
 #EXTINF:-1,Canal+ Sport 2
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F85%2F&amp;page=1&amp;title=Canal%2B+Sport+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6235cf45764af8f70e93ff6fabf5df77.png
 #EXTINF:-1,Cartoon Network
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F101%2F&amp;page=1&amp;title=Cartoon+Network&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8be5e3f6156a6b2108a2d8b9cc5d5d7c.png
@@ -56,12 +58,16 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 #EXTINF:-1,DTX
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F8743%2F&amp;page=1&amp;title=DTX&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F40dfc07863aa3f6364884400d95c78e8.png
 #EXTINF:-1,Eleven Sports 1
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F675%2F&amp;page=1&amp;title=Eleven+Sports+1&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F3607fac75862d4f74d03b68a24e30aa6.png
 #EXTINF:-1,Eleven Sports 2
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F676%2F&amp;page=1&amp;title=Eleven+Sports+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F3363272edad91fcaaa90a7a530041d01.png
 #EXTINF:-1,Eleven Sports 3
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F677%2F&amp;page=1&amp;title=Eleven+Sports+3&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F295551ef71e4a12135cc2605d0f10c8d.png
 #EXTINF:-1,Eleven Sports 4
+#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F678%2F&amp;page=1&amp;title=Eleven+Sports+4&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F2f6ea5c33be4d2faa3169d727fa24b64.png
 #EXTINF:-1, Eska TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F171%2F&amp;page=1&amp;title=Eska+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6759bbeaf0118418030fc60b4145cf6d.png
