@@ -143,41 +143,39 @@ plugin://plugin.video.pilot.wp?action=PLAY&channel=266
 plugin://plugin.video.pilot.wp?action=PLAY&channel=240
 #EXTINF:-1 group-title="WP Pilot",Radio Nowy Świat
 plugin://plugin.video.pilot.wp?action=PLAY&channel=238
-#EXTINF:-1, 13 Ulica
+#EXTINF:-1 group-title="Beta TV", 13 Ulica
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F74%2F&amp;page=1&amp;title=13+Ulica&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F62224f044cf781a83b4c148cdedd7e22.png
-#EXTINF:-1, Ale Kino+
+#EXTINF:-1 group-title="Beta TV", Ale Kino+
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F75%2F&amp;page=1&amp;title=Ale+Kino%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6a9099a92e6864879d2e944c39bde61f.png
-#EXTINF:-1, AMC
+#EXTINF:-1 group-title="Beta TV", AMC
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F673%2F&amp;page=1&amp;title=AMC&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F7c52ed5b8820b7dfd90b5a784bac64b3.png
-#EXTINF:-1, Animal Planet
+#EXTINF:-1 group-title="Beta TV", Animal Planet
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F116%2F&amp;page=1&amp;title=Animal+Planet&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F52d1df7fff7b1ba3ac317b98ef2fdb80.png
-#EXTINF:-1, AXN
+#EXTINF:-1 group-title="Beta TV", AXN
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F106%2F&amp;page=1&amp;title=AXN&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F042dba4d2faaa29cd2fa4c0125416d25.png
-#EXTINF:-1, AXN Black
+#EXTINF:-1 group-title="Beta TV", AXN Black
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F105%2F&amp;page=1&amp;title=AXN+Black&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F2994c92fb081a9ec9bd411d2be393043.png
-#EXTINF:-1, AXN Spin
+#EXTINF:-1 group-title="Beta TV", AXN Spin
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F8739%2F&amp;page=1&amp;title=AXN+Spin&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fb8e28f7a90170860454482aaf8b32023.png
-#EXTINF:-1, AXN White
+#EXTINF:-1 group-title="Beta TV", AXN White
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F107%2F&amp;page=1&amp;title=AXN+White&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F78330b934903543c66c72d2bcb2dde43.png
-#EXTINF:-1, Boomerang
+#EXTINF:-1 group-title="Beta TV", Boomerang
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F100%2F&amp;page=1&amp;title=Boomerang&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8c9d96b1ef82662dd41a42e8528876b6.png
-#EXTINF:-1, Canal+ Dokument
+#EXTINF:-1 group-title="Beta TV", Canal+ Dokument
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F31%2F&amp;page=1&amp;title=Canal%2B+Dokument&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F478fba66bce83b179eb8fb7275c8aee5.png
-#EXTINF:-1, Canal+ Family
+#EXTINF:-1 group-title="Beta TV", Canal+ Family
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F108%2F&amp;page=1&amp;title=Canal%2B+Family&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F0e6ce9ab0e29686bfd74fe793ad97c4a.png/
-#EXTINF:-1, Canal+ Film
+#EXTINF:-1 group-title="Beta TV", Canal+ Film
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F109%2F&amp;page=1&amp;title=Canal%2B+Film&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F5c220c1278fcf4dc82fc084828c0f1c7.png
-#EXTINF:-1, Canal+ Kuchnia
+#EXTINF:-1 group-title="Beta TV", Canal+ Kuchnia
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F127%2F&amp;page=1&amp;title=Canal%2B+Kuchnia&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F694d799c0cad2345045100b2cbdff1df.png
-#EXTINF:-1, Canal+ Premium
+#EXTINF:-1 group-title="Beta TV", Canal+ Premium
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F63%2F&amp;page=1&amp;title=Canal%2B+Premium&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F987f014c644303d7f4b3caec152b6c76.png
-#EXTINF:-1, Canal+ Seriale
+#EXTINF:-1 group-title="Beta TV", Canal+ Seriale
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F110%2F&amp;page=1&amp;title=Canal%2B+Seriale&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F24e472d57b2602d7be655cb4dce369e5.png
-#EXTINF:-1, Canal+ Sport
-#EXTGRP: Sport
+#EXTINF:-1 group-title="Beta TV", Canal+ Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F84%2F&amp;page=1&amp;title=Canal%2B+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F71acd8666ea6c8155ff0e261b6f75e86.png
 #EXTINF:-1,Canal+ Sport 2
-#EXTGRP: Sport
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZVzJXdTU4S2xyVFNpaG1lYnJjeC9aa0E9PQ%3D%3D%2F85%2F&amp;page=1&amp;title=Canal%2B+Sport+2&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6235cf45764af8f70e93ff6fabf5df77.png
 #EXTINF:-1,Cartoon Network
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV1VFdGlUUkNvV0lWd2JVZVJWK05iM2c9PQ%3D%3D%2F101%2F&amp;page=1&amp;title=Cartoon+Network&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F8be5e3f6156a6b2108a2d8b9cc5d5d7c.png
