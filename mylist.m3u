@@ -371,7 +371,7 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1558%21%21resolved%21%21&amp;page=1&amp;title=TVP+2&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", TVP 3
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1732%21%21resolved%21%21&amp;page=1&amp;title=TVP+3&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", olsat
+#EXTINF:-1 group-title="Polstream", Polsat
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1585%21%21resolved%21%21&amp;page=1&amp;title=Polsat&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", Polsat 2
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1495%21%21resolved%21%21&amp;page=1&amp;title=Polsat+2&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
@@ -391,7 +391,7 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.1
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1729%21%21resolved%21%21&amp;page=1&amp;title=Puls+2&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", TTV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Ftv%2Fplay.m3u8%3Fpr%3D1867%21%21resolved%21%21&amp;page=1&amp;title=TTV&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
-#EXTINF:-1 group-title="Polstream", Metro TV
+#EXTINF:-1 group-title="Polstream", METRO
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Fwb%2Fplay.m3u8%3Fpr%3Dmetro_telewizja_1t%21%21resolved%21%21&amp;page=1&amp;title=Metro+TV&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
 #EXTINF:-1 group-title="Polstream", WP HD
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F45.148.120.109%2Fwb%2Fplay.m3u8%3Fpr%3Dwp_hd%21%21resolved%21%21&amp;page=1&amp;title=WP+HD&amp;image=C%3A%5CUsers%5Cgrand%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.darmowatv%5C%2Fresources%2F..%2Ficon.png
