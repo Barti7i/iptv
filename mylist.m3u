@@ -343,3 +343,25 @@ plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F92%2F&amp;page=1&amp;title=TVP+Sport&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F21ca53915092e103f15a531bf1a54be1.png
 #EXTINF:-1 group-title="Beta TV", Warner TV
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV0FzVzVHSHUxMUNHa3BrbTI3K0JhRXc9PQ%3D%3D%2F695%2F&amp;page=1&amp;title=Warner+TV&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2Fcc843ad3ec4652d15d171ce35be3b59d.png
+#EXTINF:-1 group-title="TheCrew Sport", Canal+ Sport 2
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Da6f5af03cd80bdaf7fca2c41ee97e011
+#EXTINF:-1 group-title="TheCrew Sport", Canal+ Sport
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2c42450bf115ae9957bf206c5345d50f
+#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 1
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D970ad41803508b1503c099dbcbeb8bad
+#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 2
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D05d73f50f8c488783f0df4fbd2d87683
+#EXTINF:-1 group-title="TheCrew Sport", Eleven Sports 3
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D54e1dcf84db8d9457464a4b73242b259
+#EXTINF:-1 group-title="TheCrew Sport",EuroSport 1
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D2924418fdb3dcca70c08e433e87004e1
+#EXTINF:-1 group-title="TheCrew Sport", EuroSport 2
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D9281c3aa100d7d274de793a1d23b3d25
+#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport Extra
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3Dd775479f5f8cf07bfa7ddea5568d47f8
+#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport News
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D415674f0dc5a7d6b855ac16b3db7b526
+#EXTINF:-1 group-title="TheCrew Sport", Polsat Sport
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3De87eb1416f862183ff21e6e9cf8578ee
+#EXTINF:-1 group-title="TheCrew Sport", TVP Sport
+plugin://plugin.video.thecrew/?action=play&amp;url=%24doregex%5Bmakelist2%5D%7Cregex%3D48e6a90678aab11d81d992666ea47600
