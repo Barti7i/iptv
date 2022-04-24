@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, 13 Ulica
+#EXTINF:-1 group-title="Film", 13 Ulica
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F74%2F&amp;page=1&amp;title=13+Ulica&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F62224f044cf781a83b4c148cdedd7e22.png
 #EXTINF:-1, Ale Kino+
 plugin://plugin.video.darmowatv/?mode=playLink&amp;url=http%3A%2F%2F217.61.2.227%2Fiframe%2FUmRuMFZtdUhwcERHanI5Y3NCd2RUV2JLMnBkbW1MV0VVRityVjYvWEt5MVlyQTNBbkFpZHN3U0VFay9FMDhZV010b3dEYUJLMG5UcUlSbFlHWTNsS0E9PQ%3D%3D%2F75%2F&amp;page=1&amp;title=Ale+Kino%2B&amp;image=http%3A%2F%2F217.61.2.227%2Ftv%2F6a9099a92e6864879d2e944c39bde61f.png
