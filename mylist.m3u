@@ -3,7 +3,7 @@
 plugin://plugin.video.tvpgo/play_channel?code=T1D&ch_id=5d1dccc1fa06f9682b0f9922
 #EXTINF:0 tvg-id="TVP 2" tvg-logo="https://s3.tvp.pl/images2/3/8/3/uid_38313bd81e2ec78f92fa8d360e738b921638275558292_width_500_play_0_pos_0_gs_0_height_500.png" group-title="Podstawowe",TVP 2
 plugin://plugin.video.tvpgo/play_channel?code=T2D&ch_id=5d1dccc1fa06f9682b0f9923
-#EXTINF:-1 group-title="Podstawowe",Polsat HD
+#EXTINF:-1 tvg-id="Polsat HD" group-title="Podstawowe",Polsat HD
 plugin://plugin.video.pilot.wp?action=PLAY&channel=9
 #EXTINF:-1 group-title="Podstawowe",TV 4
 plugin://plugin.video.pilot.wp?action=PLAY&channel=11
